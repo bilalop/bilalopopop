@@ -1,0 +1,2 @@
+del \Windows\Temp
+exit
